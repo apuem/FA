@@ -1,5 +1,9 @@
 ![apuem_spinning](https://user-images.githubusercontent.com/72466440/151449508-26ef7831-ba66-49c1-9504-c50db99c0ccc.gif)
 
 # APUEM FA
-This is the official repository of APUEM FA. We serve the world with dynamic image sources. This solution is for person of public interest.
+THIS IS THE OFFICAL REPOSITORY OF APUEM FA. WE SERVE THE WORLD WITH DYNAMIC IMAGE SOURCES. THIS SOLUTION IS FOR PERSONS OF PUBLIC INTEREST. START AND EMBED AN IMAGE RIGHT NOW. SEE A LIST OF AVAILIBLE PERSONS <a href="https://apuem.com">HERE</a>.
+
+WITH THE HELP OF THE COMMUNITY WE KEEP AN DATABASE FOR CURRENT IMAGES UP TO DATE. SEE A LIST OF FANPAGES <a href="https://apuem.com">HERE</a>.
+
+## HOW TO EMBED AN IMAGE
 
